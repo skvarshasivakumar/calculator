@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<Fleet version="1.2" snapshotTime="2009-09-12T21:18:00Z" xmlns="http://schemas.aemp.org/fleet"> 
+  <Equipment> 
+    <EquipmentHeader> 
+      <UnitInstallDateTime>2010-07-28T02:07:59Z</UnitInstallDateTime> 
+      <Make>XYZOEM</Make> 
+      <Model>i93ED</Model> 
+      <EquipmentID>78907X</EquipmentID> 
+      <SerialNumber>123YJA7334912436</SerialNumber> 
+    </EquipmentHeader> 
+    <Location datetime="2009-09-12T20:35:00Z"> 
+      <Latitude>39.2855</Latitude> 
+      <Longitude>-84.4316</Longitude> 
+      <Altitude> 
+        <Meters>150</Meters> 
+      </Altitude> 
+      <AltitudeUnits>meters</AltitudeUnits> 
+    </Location> 
+    <CumulativeOperatingHours datetime="2010-07-28T02:07:59Z"> 
+      <Hour>P94DT23H51M</Hour> 
+      <ResetDateTime>2010-07-28T02:07:59Z</ResetDateTime> 
+    </CumulativeOperatingHours> 
+    <FuelUsed datetime="2009-09-12T10:57:00Z"> 
+      <FuelUnits>gallon</FuelUnits> 
+      <FuelConsumed>12345</FuelConsumed> 
+      <ResetDateTime>2010-07-28T02:07:59Z</ResetDateTime> 
+    </FuelUsed> 
+    <FuelUsedLast24 datetime="2010-10-19T16:00:47Z"> 
+      <FuelUnits>liter</FuelUnits> 
+      <FuelConsumed>3680237</FuelConsumed> 
+    </FuelUsedLast24> 
+    <Distance datetime="2009-09-12T12:40:00Z"> 
+      <OdometerUnits>kilometer</OdometerUnits> 
+      <Odometer>28</Odometer> 
+      <ResetDateTime>2009-04-19T16:00:47Z</ResetDateTime> 
+    </Distance> 
+  </Equipment> 
+  <Equipment> 
+    <EquipmentHeader> 
+      <UnitInstallDateTime>2010-07-28T02:07:59Z</UnitInstallDateTime> 
+      <Make>XYSOEW</Make> 
+      <Model>i43EG</Model> 
+      <EquipmentID>28707Q</EquipmentID> 
+      <SerialNumber>189YQA7334912436</SerialNumber> 
+    </EquipmentHeader> 
+    <Location datetime="2009-09-12T20:35:00Z"> 
+      <Latitude>38.2855</Latitude> 
+      <Longitude>-83.4316</Longitude> 
+      <Altitude> 
+        <Meters>250</Meters> 
+      </Altitude> 
+      <AltitudeUnits>meters</AltitudeUnits> 
+    </Location> 
+    <CumulativeOperatingHours datetime="2010-07-28T02:07:59Z"> 
+      <Hour>P97DT23H51M</Hour> 
+      <ResetDateTime>2009-07-28T02:07:59Z</ResetDateTime> 
+    </CumulativeOperatingHours> 
+    <FuelUsed datetime="2009-09-12T10:57:00Z"> 
+      <FuelUnits>gallon</FuelUnits> 
+      <FuelConsumed>12323</FuelConsumed> 
+      <ResetDateTime>2010-07-28T02:07:59Z</ResetDateTime> 
+    </FuelUsed> 
+    <FuelUsedLast24 datetime="2010-10-19T16:00:47Z"> 
+      <FuelUnits>liter</FuelUnits> 
+      <FuelConsumed>3623237</FuelConsumed> 
+    </FuelUsedLast24> 
+    <Distance datetime="2009-09-12T12:40:00Z"> 
+      <OdometerUnits>kilometer</OdometerUnits> 
+      <Odometer>28</Odometer> 
+      <ResetDateTime>2009-04-19T16:00:47Z</ResetDateTime> 
+    </Distance> 
+  </Equipment> 
+</Fleet>
